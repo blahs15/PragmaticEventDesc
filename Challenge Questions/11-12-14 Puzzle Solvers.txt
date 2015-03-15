@@ -1,0 +1,30 @@
+Pragmatic Challenges
+11-12-14
+
+
+Program Solvers for one of the following puzzles
+
+1) Word Search
+generator: 
+http://puzzlemaker.discoveryeducation.com/WordSearchSetupForm.asp?campaign=flyout_teachers_puzzle_wordcross
+
+2) Mastermind
+6 colors usually
+duplicate colors?
+10 turns
+black - correct color/position
+white - correct color
+need to code a checker
+
+3) Sudoku
+generator: (refresh)
+http://davidbau.com/archives/2006/09/04/sudoku_generator.html
+http://davidbau.com/generated/sudoku.txt
+
+4) Nonogram
+Advice on puzzle generation/representation:
+http://rosettacode.org/wiki/Nonogram_solver
+
+5) Jumble? (needs dictionary)
+
+6) Fill-In Crossword
