@@ -1,0 +1,20 @@
+1-15-15
+7:00pm - 9:00pm
+Kemper 1127
+https://www.facebook.com/events/940607495952004/
+
+WE HAVE AN ACTUAL COMPETITION STARTING THIS WEEK!
+
+This Thursday will mark the start of a two week competition to create the best Minesweeper puzzle Solver program.  There's going to be a few small prizes to the winners, and depending on the participation, I may get more!
+
+Rules of the competition will be shared at the event.
+
+Suggested Information
+{
+- C or C++ will be required for the Solver. (Sorry! Can't change this part.)
+- I believe I'm going to make it so that only students can win. (Anyone can participate though.)
+- What is minesweeper?:
+http://en.wikipedia.org/wiki/Minesweeper_%28video_game%29
+- I want to play minesweeper!:
+minesweeperonline.com
+} // suggested info

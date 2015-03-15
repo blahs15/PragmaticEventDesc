@@ -1,0 +1,25 @@
+11-19-14
+6:00pm - 8:00pm
+Kemper Hall 1131
+https://www.facebook.com/events/726656084094981
+
+***BRING A COMPUTER TO PROGRAM WITH***
+
+Last week I provided some puzzles for people to program solvers for.  The puzzle that seemed to work best were Nonograms (aka Picross), which almost nobody had heard of.  We will continue this week by delving into how to solve these Nonogram puzzles.
+
+I will be creating a Nonogram puzzle generator that will be easy to read in to a program.  This way you guys can start writing the solver right away.
+
+I believe that this problem is feasible to be programmed by almost all skill levels.  Some people were using this as a good practice program and others were just having fun figuring it out.  A few others were using this as an opportunity to learn a new language.  All of these are good reasons to come join us.
+
+.....................................................
+
+What is a Nonogram puzzle?
+AKA Picross, Paint by Numbers, Griddlers, Pic-a-Pix, Pixel Puzzles, etc.
+Learning the actual rules will be done as needed during the meeting and will only take a few minutes.  If you're interested, here's the wikipedia article on it:
+http://en.wikipedia.org/wiki/Nonogram
+
+Suggested Information:
+{
+- Bring a Computer.
+- Bring a friend to work with, or you'll leave having met some new ones.
+} // suggested info

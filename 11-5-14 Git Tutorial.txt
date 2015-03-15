@@ -1,0 +1,24 @@
+11-5-14
+6:30 - 8:30pm
+Haring 2016
+https://www.facebook.com/events/380651585393308/
+*This event is shared with the November General Meeting.
+
+Come out to Davis Computer Science Club's second meeting of the quarter.
+
+Learn about how to get more involved with the club, and buy CS department apparel. Also, learn about our upcoming t-shirt contest and other upcoming events.
+
+Afterwards, join us for a Git Tutorial hosted by Pragmatic Programming. See you there!
+
+-----------------------------------------------
+*Pragmatic Programming Presents*
+Do You Git It?: A Git Tutorial
+
+Pragmatic Programming will be leading the end of the meeting by providing a Git Tutorial. Git can be used to backup your work, show it off to potential employers, and to collaborate with others.
+
+Suggested Information:
+{
+- The Tutorial will require a computer.
+- Installing Git is included in the tutorial, but already having it installed is a good idea.
+- We will be grouping people together to learn how to use Git to work with others. So bring some friends if you want!
+} // suggested info

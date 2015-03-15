@@ -1,0 +1,30 @@
+10-22-14
+7:30pm - 9:30pm
+Kemper Hall 1131
+https://www.facebook.com/events/354735538035770
+
+This week, Prag will be more of a kick-back.
+
+I will have last week's GDB Debugging Tutorial available (and hopefully updated more) for anybody who missed it, or would like to ask questions about it.
+Last Week's Event Description: https://www.facebook.com/events/1507183549539558
+
+Otherwise, we, the organizers, have had a lot of work to do and weren't able to put much together for this week.  However, we would still prefer to have a meeting on a weekly basis.  Therefore this week is a good week to bring any questions you have.
+
+Some good questions would be about:
+- **Pragmatic Programming Committee**
+- The CS club in general
+- The CS major
+- college in general?
+- questions about your (CS) classes
+- debugging
+
+Since this is a relaxed meeting, you can also bring things like:
+- **suggestions of what you would like us to go over**
+- homework
+- Personal projects
+
+
+Suggested Information:
+{
+Nothing this week. Bring what you'd like to work on.
+} // suggested info

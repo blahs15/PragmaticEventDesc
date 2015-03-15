@@ -1,0 +1,49 @@
+1-7-15
+7:00pm - 9:00pm
+Kemper 1127
+https://www.facebook.com/events/408571915966488/
+
+Come out for the first Pragmatic Programming Winter Quarter meeting!
+
+This week we will be having our GDB debugging tutorial again, along with Michael Lu's demonstration of an IDE debugger using Visual Studio.  We did this event at the beginning of last quarter too, so hopefully we'll have "debugged" our presentations! (get it? eh? ehh?? .... anywayy...)
+
+More detailed info is shown in our last event if interested:
+https://www.facebook.com/events/1507183549539558
+
+Suggested Information
+{
+/**************************************************
+* - BRING A LAPTOP or join someone who has one    *
+**************************************************/
+
+- C or C++ experience would help for the tutorial
+- Having a CSIF account is suggested, but not completely necessary
+- If you can't make the meeting, the tutorial materials will be made available afterwards.
+
+This event is hosted by the Davis Computer Science Club:
+https://www.facebook.com/daviscsclub
+https://www.facebook.com/groups/daviscsclub/
+} // suggested info
+
+
+
+
+
+
+Hi ECS 40 students!
+
+I'm a part of the CS club, head of the Pragmatic Programming Commitee.  You may have seen me hanging out in your class.
+
+Later today, from 7-9pm in Kemper 1127, I will be holding my first weekly meeting of the quarter.  The subject of the meeting will be a tutorial on GDB that I wrote last quarter.  Michael Lu, one of our friendly club tutors, will also be having a debugging demonstration using the IDE Visual Studio.  
+
+I'm specifically advertising to you because I believe learning GDB would be extremely useful for you.  I know your homework this week is on ddd, which I never learned, sorry, but nearly all debuggers work more or less the same way.  My goal is to actually show how similar they all are, so that learning a new one (like ddd) will be easier.
+
+Here's the facebook event where you can RSVP and make me feel useful:
+https://www.facebook.com/events/408571915966488/
+
+Hopefully I'll see a lot of you there!
+- God
+- Russell
+... I am modest. yea... very modest...
+
+^.^ 

@@ -1,0 +1,15 @@
+10-29-14
+5:00pm - 7:00pm
+Kemper Hall 1131
+https://www.facebook.com/events/835684516451911
+
+Hi guys!
+
+I know it's really late to create the event, but we are going to have a Pragmatic Programming meeting later today.
+
+We are planning on providing and discussing some challenging coding problems. It will be discussion based, and anything that's new can be explained.
+
+Suggested Information:
+{
+Since it's discussion based, no materials are needed.
+} // suggested info

@@ -1,0 +1,33 @@
+1-29-15
+7:00pm-9:00pm
+Kemper 1127
+https://www.facebook.com/events/905829709457833/
+
+LAST FEW DAYS ON THE COMPETITION! SUBMISSIONS WILL BE COMPARED AT THE MEETING THIS THURSDAY!
+
+The competition ends this Thursday.  Submissions will be accepted even at the start of the meeting; there's still time to start making an entry.  Remember that submission directions are in the README.txt file.
+
+It was decided (by popular vote) that the prize will be a gift card for In-N-Out.
+
+I'm (Russell Miller) available for questions about any contest rules or about how the minesweeper program works.
+
+Suggested Information
+{
+- Week 1 event post: https://www.facebook.com/events/940607495952004/
+- Week 2 event post: https://www.facebook.com/events/1015007035180237/
+
+- Some rules that were decided that may not be in the README.txt:
+-- You must have the first line of your solver be:
+  game->revealSquare(game->numRows()/2,game->numCols()/2);
+-- The penalty for hitting a mine is 10%
+--- ex: 74% revealed --> 64%, 28% --> 18%
+-- Read the function descriptions carefully.  Due to some needed quick-bug-fixes, the return values of some functions aren't very intuitive.
+-- The prize will be an In-N-Out gift card (by popular vote).
+
+
+- To get started, if you have a CSIF account, you can copy the files by entering the following on the command line:
+cp /home/blahs15/pragmatic/member/Minesweeper . -r
+- If you don't have a CSIF account, post here or message the page and I will get the relevant files to you.
+- All the needed information is in the README.txt file.
+- The README is posted/pinned in the Week 2 event post
+} // suggested info

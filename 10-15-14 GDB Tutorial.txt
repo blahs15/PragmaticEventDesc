@@ -1,0 +1,37 @@
+10-15-14
+8:00pm - 9:30pm
+Giedt 1003
+https://www.facebook.com/events/1507183549539558
+
+Come join us for the first Pragmatic Programming meeting of the year!
+
+This week we will be going over DEBUGGING, including both a tutorial and a demonstration.
+(SOME IMPORTANT INFO IS HIDDEN BELOW)
+
+Debugging Tutorial:
+The debugging tutorial will be using GDB, a debugger usually introduced in ECS 30. We will be creating C (for those in ECS 40) and C++ (for those past ECS 40) programs that will have classic bugs that can be solved using techniques provided by GDB. Hopefully the programs written by us, the hosts, will be both fun and helpful for your future programming.
+
+Visual Studio Debugging Demonstration:
+The debugging demonstration is going to be planned by Michael Lu one of the fantastic club tutors. He plans to exhibit some debugging using Visual Studio, a common Windows programming platform. The demonstration will be carried out towards the end of the meeting, so if you can't come on time, you can still make it for this!
+
+Suggested Information: (THIS IS ACTUALLY A LITTLE IMPORTANT)
+{
+- Unfortunately, the tutorial will require experience in either C or C++, as we will be writing the programs ourselves. To those in ECS 30, it is most likely too early to learn GDB. HOWEVER, if you are not able to go through our tutorial, the demonstration may still be interesting, and there will still be a lot of interesting people in the CS club to meet and connect with and you can just come by and chill.
+
+- A LAPTOP is highly suggested.
+----- If you don't have one, or forget yours, you can still work together with others, so don't worry. (Make friends in CS!)
+
+- A CSIF account is also highly suggested.
+----- The programs will be available inside of our CSIF accounts, and GDB is sure to run in CSIF. We will try to make them available through other methods if needed, but this will be the easiest.
+
+- All Pragmatic Programming materials will be available after meetings for those who still want to look at them.
+} // suggested info
+
+
+About Pragmatic Programming Committee
+I, Russell Miller, am the chair of the committee, with Shyam Pinnipati as my vice-chair. We are both friendly third years who have been helping out a lot of people in our CS classes even before we became involved in the club.
+Our goal is to help people learn both things that are useful and things that they want to learn! If there are any requests, suggestions, questions, or anything else, feel free to contact us or just post something on the facebook club page.
+Oh! Also, if you actually read this entire description, it would be very cool and very helpful if you gave me a high-five at the meeting, it will help tell me how many people are actually reading this, or if it's too long. (Don't forget! Thanks!)
+:)
+
+TL;DR: Read the first few lines, they are the summary, the rest is details.

@@ -1,0 +1,24 @@
+1-22-15
+7:00pm - 9:00pm
+Kemper 1127
+https://www.facebook.com/events/1015007035180237/
+
+THE COMPETITION CONTINUES! YOU CAN STILL JOIN!
+
+This Thursday marks the halfway point of the two week competition to create the best Minesweeper puzzle Solver program.  The competition does have a prize for the person who creates the best solver.
+
+You don't need to have gone to the last event to participate, you can start at any time, and you don't need to even show up to still be able to participate.  
+
+If there are any questions, feel free to post here or message the page and I will try to help out.
+
+Suggested Information
+{
+- Last week's event post if you want a few more details:
+https://www.facebook.com/events/940607495952004/
+
+- To get started, if you have a CSIF account, you can copy the files by entering the following on the command line:
+cp /home/blahs15/pragmatic/member/Minesweeper . -r
+- If you don't have a CSIF account, post here or message the page and I will get the relevant files to you.
+- All the needed information is in the README.txt file.
+- I will upload the README below for those that are interested.
+} // suggested info

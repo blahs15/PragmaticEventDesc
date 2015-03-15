@@ -1,0 +1,13 @@
+2-12-15
+7:00pm-9:00pm
+Kemper 1127
+https://www.facebook.com/events/598341303599733/
+
+This week will be a pre-competition conversation about pathfinding/maze algorithms.  We are planning on holding a competition soon, and more details will be revealed at the meeting.
+
+Suggested Information
+{
+- Nothing will be needed for this meeting, just an interest in learning or contributing :)
+- The prize for the competition is planned to be a free club shirt!
+- If you get pre-competition jitters, I can go through what the process will be ahead of time at this meeting.
+} // suggested info

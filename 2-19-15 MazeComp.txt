@@ -1,0 +1,22 @@
+2-19-15
+7:00pm-10:00pm
+Kemper 1127
+https://www.facebook.com/events/881880035165430
+
+DO YOU WANT A CHANCE TO WIN A FREE CLUB SHIRT?!
+
+Come to our Pragmatic Programming this Thursday for a 2-3 hour programming competition.  The winner will be able to get a club tshirt at no cost when the shirts arrive.
+
+What is the competition?:
+Write an algorithm that will traverse a 2D maze in as few steps as possible.  Whoever takes the fewest steps for some randomly generated mazes at the end of the meeting will be declared the winner!
+You will have the duration of the meeting to complete it.
+
+Suggested Information
+{
+- This meeting is an hour longer than normal to allow extra time to program
+- Unfortunately, the programming will be required to be in C++
+- working in CSIF is suggested
+- Perhaps think about looking up some maze-solving/pathfinding algorithms before the competition
+-- (warning: you won't be omniscient)
+- The winner will be able to claim the prize only once the club tshirts arrive
+} // suggested info

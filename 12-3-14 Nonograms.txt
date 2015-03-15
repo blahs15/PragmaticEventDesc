@@ -1,0 +1,20 @@
+12-3-14
+6:00pm - 8:00pm
+Kemper Hall 1131
+https://www.facebook.com/events/359248727582477
+
+***BRING A COMPUTER TO PROGRAM WITH*** 
+(And charger if you might need it)
+
+Pragmatic Programming will be continuing to work on a Picross puzzle solver for the rest of the quarter.  Next quarter I'm planning on having a competition (hopefully with a prize!) to make the best puzzle solver for a TBA puzzle.  I started this topic to get people into that mindset.
+
+For more information on Picross puzzles, here's the previous Prag event:
+https://www.facebook.com/events/726656084094981
+
+
+Suggested Information:
+{
+- Bring a Computer.
+- A charger can be pretty useful too.
+- Bring a friend to work with, or you'll leave having met some new ones.
+} // suggested info

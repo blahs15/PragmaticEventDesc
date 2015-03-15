@@ -1,0 +1,16 @@
+11-12-14
+5:00pm - 6:30pm
+Kemper Hall 1131
+https://www.facebook.com/events/1513689062223847
+
+***BRING A COMPUTER TO PROGRAM WITH***
+please? :(
+
+This week (and maybe the next few meetings too) I will be providing some challenging ideas for people to actually program.  I will be suggesting some puzzles that can normally be solved by hand, and I would like some people to create some solvers for them.
+
+As always, people of all levels are welcome.  You can be fairly new to programming, and there will be people to help you along.  You can have a lot of experience and just have some fun writing something.  Or you can be someone who hasn't coded very many things lately and use this as something to practice with.
+
+Suggested Information:
+{
+Bring a Computer. Really. It's hard to program without one...
+} // suggested info
